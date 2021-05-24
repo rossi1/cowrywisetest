@@ -5,6 +5,8 @@ DJANGO_SETTINGS_MODULE=config.settings.production
 DJANGO_SECRET_KEY=IqvTs73SwkM15LqeGvVcVc7rEDDW0Cb3xWBfa8VhZAWC6BLYSvjvda6SYok1lMvQ
 DJANGO_ADMIN_URL=TV0NHBFOV6eXRBSVab0JDKCKsFZNRsA1/
 DJANGO_ALLOWED_HOSTS=.example.com
+DATABASE_URL=postgres://postgres:testuser@localhost:5432/testdb
+
 
 # Security
 # ------------------------------------------------------------------------------
