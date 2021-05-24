@@ -66,6 +66,7 @@ target/
 
 # Environments
 .venv
+.env
 venv/
 ENV/
 
@@ -273,5 +274,7 @@ cowrywise/media/
 
 
 .ipython/
-.env
-.envs/*
+.env
+
+.envs/*
+

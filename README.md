@@ -14,7 +14,7 @@ Follow these steps to set up the app.
 
 Clone the repo:
 
-[Github repo](https://rossi1/cowrywisetest)
+[Github repo](https://github.com/rossi1/cowrywisetest)
 
 Navigate to the project directory:
 
@@ -47,6 +47,13 @@ Run the below command to run migrations
  
 `$ python manage.py makemigrations`
 `$ python manage.py migrate`
+
+
+Test
+
+Run the command below to start the testcase
+
+`$ python manage.py test sample_app.tests`
 
 
 Start the application with `python manage.py runserver`
